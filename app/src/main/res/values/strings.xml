@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TodoList App</string>
+
+    <!-- Home Screen -->
+    <string name="home_title">Mis Tareas</string>
+    <string name="pending_tasks">Tareas Pendientes</string>
+    <string name="completed_tasks">Tareas Completadas</string>
+    <string name="add_task">Agregar Tarea</string>
+    <string name="view_all_tasks">Ver Todas las Tareas</string>
+
+    <!-- Add Task Screen -->
+    <string name="add_task_title">Nueva Tarea</string>
+    <string name="task_name">Nombre de la tarea</string>
+    <string name="task_description">Descripción</string>
+    <string name="task_type">Tipo de tarea</string>
+    <string name="save_task">Guardar</string>
+    <string name="cancel">Cancelar</string>
+
+    <!-- Task Types -->
+    <string name="type_work">Trabajo</string>
+    <string name="type_home">Casa</string>
+    <string name="type_business">Negocios</string>
+
+    <!-- Task List Screen -->
+    <string name="task_list_title">Lista de Tareas</string>
+    <string name="no_tasks">No hay tareas</string>
+    <string name="mark_completed">Marcar como completada</string>
+    <string name="delete_task">Eliminar</string>
+
+    <!-- Task Detail Screen -->
+    <string name="task_detail_title">Detalles de Tarea</string>
+    <string name="task_status">Estado</string>
+    <string name="status_pending">Pendiente</string>
+    <string name="status_completed">Completada</string>
+
+    <!-- Messages -->
+    <string name="task_added">Tarea agregada exitosamente</string>
+    <string name="task_deleted">Tarea eliminada</string>
+    <string name="task_completed">Tarea completada</string>
+    <string name="fill_all_fields">Por favor completa todos los campos</string>
+</resources>
