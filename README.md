@@ -96,7 +96,7 @@ TodoListApp/
 1. **Clonar o descargar el proyecto**
 
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
+   git clone https://github.com/dimasqr/app_movil_proyecto_final.git
    ```
 
 2. **Abrir Android Studio**
